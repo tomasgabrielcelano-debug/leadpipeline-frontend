@@ -1,4 +1,4 @@
-import React, { useMemo, useState } from 'react'
+import { useMemo, useState } from 'react'
 import { api } from '../api/client'
 import type { IncomingMessageDto, IngestResultDto } from '../api/types'
 import ErrorBox from '../components/ErrorBox'

@@ -1,4 +1,3 @@
-import React from 'react'
 import { NavLink, Navigate, Route, Routes } from 'react-router-dom'
 import ConversationsPage from './pages/ConversationsPage'
 import ConversationDetailPage from './pages/ConversationDetailPage'
